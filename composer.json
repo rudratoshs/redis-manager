@@ -1,9 +1,9 @@
 {
-    "name": "open-admin-ext/redis-manager",
+    "name": "open-admin-ext/redis-manager-upgrade",
     "description": "Redis manager for open-admin",
     "type": "library",
     "keywords": ["open-admin", "redis", "manager"],
-    "homepage": "https://github.com/open-admin-org/redis-manager",
+    "homepage": "https://github.com/rudratoshs/redis-manager",
     "license": "MIT",
     "authors": [
         {
