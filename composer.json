@@ -1,5 +1,5 @@
 {
-    "name": "open-admin-ext/redis-manager-upgrade",
+    "name": "open-admin-ext-upgrade/redis-manager-upgrade",
     "description": "Redis manager for open-admin",
     "type": "library",
     "keywords": ["open-admin", "redis", "manager"],
